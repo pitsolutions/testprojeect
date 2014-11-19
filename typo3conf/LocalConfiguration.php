@@ -1,6 +1,6 @@
 <?php
 return array(    
-	'BE' => array(
+	'BE' => array( fd sfdsfdsfs
 		'debug' => FALSE,
 		'explicitADmode' => 'explicitAllow',
 		'installToolPassword' => '$P$CraJTJX78oqbvSEgRoVrRROaZYb0fA.',
