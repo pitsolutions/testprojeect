@@ -1,5 +1,5 @@
 <?php
-return array(
+return array(    
 	'BE' => array(
 		'debug' => FALSE,
 		'explicitADmode' => 'explicitAllow',
